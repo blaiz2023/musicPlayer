@@ -3,7 +3,7 @@ Play offline music files from a folder or playlist.  A large playback progress b
 
 <img src="images/musicplayer-screenshot.jpg">
 
-Features
+# Features
 * Dual play systems - Play Folder / Play List
 * Dual audio systems - Windows Media Foundation (MF) and Multimedia Control Interface (MCI) 
 * Supported audio formats: ac3, aac, adt, adts, aif, aiff, alac, amb, amr, au, flac, mpa, mp2, mp3, mp4, m4a, m4r, oga, ogg, opus, snd, wav, wma, 3gp, and 3g2 (modern formats require Win10/11)
@@ -24,7 +24,7 @@ Features
 * Portable
 * Smart Source Code (Borland Delphi 3 and Lazarus 2.2/4.4/4.6)
 
-Codebase Changes
+# Codebase Changes
 * Optimised for 2K display @ 60fps+
 * Source code supports both 32-bit and 64-bit
 * 32-bit compilation in Borland Delphi 3 (stable)
