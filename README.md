@@ -32,6 +32,10 @@ Play offline music files from a folder or playlist.  A large playback progress b
 * 64-bit compilation in Lazarus 4.4 (stable)
 * 64-bit compilation in Lazarus 4.6 (stable)
 
+# Download
+Download <a href="src/musicplayer.exe">musicplayer.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above - for Microsoft Windows, and Linux/MacOS via Wine.
+
+# Images
 <img src="images/musicplayer-screenshot2.jpg">
 
 <img src="images/musicplayer-screenshot3.jpg">
