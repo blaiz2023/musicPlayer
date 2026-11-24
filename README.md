@@ -6,13 +6,13 @@ Play offline music files from a folder or playlist.  A large playback progress b
 # Features
 * Dual play systems - Play Folder / Play List
 * Dual audio systems - Windows Media Foundation (MF) and Multimedia Control Interface (MCI) 
-* Supported audio formats: ac3, aac, adt, adts, aif, aiff, alac, amb, amr, au, flac, mpa, mp2, mp3, mp4, m4a, m4r, oga, ogg, opus, snd, wav, wma, 3gp, and 3g2 (modern formats require Win10/11)
+* Supported audio formats: ac3, aac, adt, adts, aif, aiff, alac, amb, amr, au, flac, mpa, mp2, mp3, mp4, m4a, m4r, oga, ogg, opus, snd, wav, wma, 3gp, and 3g2
 * Elapsed, Remaining and Total time readouts
 * Information panel
 * Native ".m3u" playlist support (copy, paste, open, save, build)
 * Drag and drop audio files to play/add to playlist
 * Play Modes: Once, Repeat One, Repeat All, All Once, Random
-* Intro Mode: Play first 2s, 5s, 10s or 30s of midi
+* Intro Mode: Play first 2s, 5s, 10s or 30s of audio
 * Rewind/Fast Forward by: 1s, 2s, 5s, 10s or 30s
 * Play on Start option - playback commences on app start
 * Playback Progress bar - click to reposition/jump backward or forward in time
